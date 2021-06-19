@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kyebw.github.io</id>
     <title>Gridea</title>
-    <updated>2021-06-19T11:08:14.277Z</updated>
+    <updated>2021-06-19T11:14:33.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kyebw.github.io"/>
     <link rel="self" href="https://kyebw.github.io/atom.xml"/>
@@ -11,30 +11,20 @@
     <icon>https://kyebw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[再试一下]]></title>
-        <id>https://kyebw.github.io/post/zai-shi-yi-xia/</id>
-        <link href="https://kyebw.github.io/post/zai-shi-yi-xia/">
+        <title type="html"><![CDATA[新文章]]></title>
+        <id>https://kyebw.github.io/post/xin-wen-zhang/</id>
+        <link href="https://kyebw.github.io/post/xin-wen-zhang/">
         </link>
-        <updated>2021-06-19T11:07:49.000Z</updated>
-        <content type="html"><![CDATA[<p>1111111<img src="https://kyebw.github.io/post-images/1624100885387.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://kyebw.github.io/post/1/</id>
-        <link href="https://kyebw.github.io/post/1/">
-        </link>
-        <updated>2021-06-19T11:06:28.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真的不要太简单]]></title>
-        <id>https://kyebw.github.io/post/zhen-de-bu-yao-tai-jian-dan/</id>
-        <link href="https://kyebw.github.io/post/zhen-de-bu-yao-tai-jian-dan/">
-        </link>
-        <updated>2021-06-18T13:56:15.000Z</updated>
-        <content type="html"><![CDATA[<p>因为已经好了</p>
+        <updated>2021-06-19T11:11:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>开始写作<br>
+插入图片<img src="https://kyebw.github.io/post-images/1624101139329.png" alt="" loading="lazy"></p>
+<p>😀表情</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>开始写作<br>
+插入图片<img src="https://kyebw.github.io/post-images/1624101139329.png" alt="" loading="lazy"></p>
+<p>😀表情</p>
+<!-- more -->
+<p>撒</p>
 ]]></content>
     </entry>
     <entry>
